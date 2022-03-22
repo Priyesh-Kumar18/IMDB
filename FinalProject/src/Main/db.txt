@@ -1,0 +1,52 @@
+Taxi Driver, Robert De Niro, Jodie Foster, Martin Scorsese, 1976, 114
+Akira, Mitsuo Iwata, Nozomu Sasaki, Katsuhiro Otomo, 1988, 124
+Raging Bull, Joe Pesci, Robert De Niro, Martin Scorsese, 1980, 129
+Minari, Steven Yeun, Alan S. Kim, Lee Isaac Chung, 2020, 115
+Sound of Metal, Riz Ahmed, Olivia Cooke, Darius Marder, 2019, 120
+Pulp Fiction, John Travolta, Samuel L. Jackson, Quentin Tarantino, 1994, 154
+Fight Club, Edward Norton, Brad Pitt, David Fincher, 1999, 139
+Inception, Leonardo DiCaprio, Elliot Page, Christopher Nolan, 2010, 148
+Goodfellas, Robert De Niro, Joe Pesci, Martin Scorsese, 1990, 146
+2001 A Space Odyssey, Keir Dullea, Gary Lockwood, Stanley Kubrick, 1968, 149
+A Clockwork Orange, Patrick Magee, Malcolm McDowell, Stanley Kubrick, 1971, 136
+Seven Samurai, Toshiro Mifune, Takashi Shimura, Akira Kurosawa, 1954, 207
+Se7en, Morgan Freeman, Bradd Pitt, David Fincher, 1995, 127
+The Silence of the Lambs, Jodie Foster, Anthony Hopkins, Jonathan Demme, 1991, 118
+City of God, Leandro Firmino, Seu Jorge, Fernando Meirelles, 2002, 130
+Star Wars Episode IV A New Hope, Mark Hamill, Carrie Fisher, George Lucas, 1977, 121
+Parasite, Kang-ho Song, Yeo-jeong Cho, Bong Joon Ho, 2019, 132
+SnowPiercer, Chris Evans, Kang-ho Song, Bong Joon Ho, 2013, 126
+okja, Jake Gyllenhaal, Tida Swinton, Bong Joon Ho, 2017, 120
+Back to the Future, Michael J. Fox, Christopher Lloyd, Robert Zemeckis, 1985, 116
+The Lion King, Matthew Broderick, Niketa Calame-Harris, Roger Allers, 1994, 148
+Whiplash, Miles Teller, J.K. Simmons, Damien Chazelle, 2014, 106
+Dilwale Dulhania Le Jayenge, Shah Rukh Khan, Kajol, Aditya Chopra, 1995, 181
+Grave of the Fireflies, Tsutomu Tatsumi, Ayano Shiraishi, Isao Takahata, 1988, 189
+Cowboy Bebop: The Movie, Koichi Yamadera, Unsho Ishizuka, Shin'ichiro Watanabe, 2001, 115
+Alien, Sigourney Weaver, Tom Skerritt, Ridley Scott, 1979, 117
+Wall.E, Ben Burtt, Elissa Knight, Andrew Stanton, 2008, 98
+Avengers: Infinty War, Robert Downey Jr., Don Cheadle, Anthony Russo, 2018, 149
+Princess Mononoke, Billy Crudup, Minnie Driver, Hayao Miyazaki, 1997, 134
+Your Name, Ryunosuke Kamiki, Mone Kamishiraishi, Makoto Shinkai, 2016, 106
+The Dark Knight Rises, Christian Bale, Tom Hardy, Christopher Nolan, 2012, 164
+Coco, Anthony Gonzalez, Alanna Ubach, Lee Unkrich, 2017, 105
+Kuch Kuch Hota Hai, Shah Rukh Khan, Kajol, Karan Johar, 1998, 177
+Baazigar, Shah Rukh Khan, Kajol, Abbas Alibhai Burmawalla, 1993, 175
+Kabhi Khushi Kabhie Gham, Hrithik Roshan, Shah Rukh Khan, Karan Johar, 2001, 210
+3 Idiots, Aamir Khan, Kareena Kapoor, Rajkumar Hirani, 2009, 170
+Dhoom, Abhishek Bachchan, Esha Deol, Sanjay Gadhvi, 2004, 129
+Dhoom 2, Hrithik Roshan, Aishwarya Rai Bachchan, Sanjay Gadhvi, 2006, 152
+Good Will Hunting, Ben Addleck, Robin Williams, Gus Van Sant, 1997, 126
+Toy Story 3, Tom Hanks, Tim Allen, Lee Unkrich, 2010, 103
+Die Hard, Bruce Willis, Bonnie Bedelia, John McTiernan, 1988, 132
+Blade Runner, Harrison Ford, Sean Young, Ridley Scott, 1982, 107
+Blade Runner 2049, Ryan Gosling, Harrison Ford, Denis Villeneuve, 2017, 164
+La La Land, Ryan Gosling, Emma Stone, Damien Chazelle, 2016, 128
+Do the Right Thing, Danny Aiello, Richard Edson, Spike Lee, 1989, 120
+Ray, Jamie Foxx, Regina King, Taylor Hackford, 2004, 152
+Boyz n the Hood, Ice Cube, Angela Bassett, John Singleton, 1991, 102
+Friday, Nia Long, Chris Tucker, F. Gary Gray, 1995, 91
+Nightcrawler, Jake Gyllenhaal, Riz Ahmed, Dan Gilroy, 2014, 107
+Brokeback Mountain, Heath Ledger, Jake Gyllenhaal, Ang Lee, 2005, 134
+Ghost in the Shell, Atsuko Tanaka, Akio Otsuka, mamoru Oshii, 1995, 83
+Black Panther, Michael B. Jordan, Chadwick Boseman, Ryan Coogler, 2018, 134
