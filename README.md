@@ -1,3 +1,3 @@
 # IMDB
 This repository will hold all the files for a Local IMDB Search Engine. 
-The local text file has a list of movies to which the user can add movies or get specific information about the movies from the list.
+A Java-based local IMDB search engine. From the list of movies, the user can add or search for films in the local text file The search engine allows the user to obtain specific information like the title, actor-director, year, and runtime.
